@@ -1,5 +1,4 @@
-# Country List App
-
+# WorldAtlas-Web-App
 This is a simple web application that displays a list of countries with their details such as flags, names, capitals, regions, populations, and continents. The application allows users to filter, search, and sort the countries based on various criteria.
 
 ## Features
